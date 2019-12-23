@@ -1,6 +1,6 @@
 document.getElementById("mana-button").style.display = "block";
 
-fetch("/img/lines-gather-mana.svg")
+fetch("img/lines-gather-mana.svg")
     .then(response => response.text())
     .then(text => {
         const svgFile = document.implementation.createHTMLDocument("File");
@@ -10,7 +10,7 @@ fetch("/img/lines-gather-mana.svg")
         buttonsDiv.insertBefore(svg, (buttonsDiv.children)[1]);
     });
 
-fetch("/img/lines-sparks.svg")
+fetch("img/lines-sparks.svg")
     .then(response => response.text())
     .then(text => {
         const svgFile = document.implementation.createHTMLDocument("File");
@@ -20,7 +20,7 @@ fetch("/img/lines-sparks.svg")
         buttonsDiv.insertBefore(svg, (buttonsDiv.children)[1]);
     });
 
-fetch("/img/lines-splash.svg")
+fetch("img/lines-splash.svg")
     .then(response => response.text())
     .then(text => {
         const svgFile = document.implementation.createHTMLDocument("File");
