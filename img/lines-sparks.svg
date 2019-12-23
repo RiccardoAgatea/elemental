@@ -1,0 +1,5 @@
+<svg id="lines-sparks" class="svg-lines">
+	<line id="sparks-to-fireball-line"
+		class="magic-line fire-line"
+		x1="50%" y1="0" x2="50%" y2="100%"/>
+</svg>
