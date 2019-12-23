@@ -1,14 +1,6 @@
 <svg id="lines-gather-mana" class="svg-lines">
-	<line id="gather-mana-to-sparks-line"
-		class="magic-line fire-line"
-		x1="50%" y1="0" x2="12.5%" y2="100%"/>
-	<line id="gather-mana-to-gust-line"
-		class="magic-line air-line"
-		x1="50%" y1="0" x2="37.5%" y2="100%"/>
-	<line id="gather-mana-to-splash-line"
-		class="magic-line water-line"
-		x1="50%" y1="0" x2="62.5%" y2="100%"/>
-	<line id="gather-mana-to-pebble-line"
-		class="magic-line earth-line"
-		x1="50%" y1="0" x2="87.5%" y2="100%"/>
+    <line id="gather-mana-to-sparks-line" class="magic-line fire-line" x1="50%" y1="0" x2="12.5%" y2="100%"/>
+    <line id="gather-mana-to-gust-line" class="magic-line air-line" x1="50%" y1="0" x2="37.5%" y2="100%"/>
+    <line id="gather-mana-to-splash-line" class="magic-line water-line" x1="50%" y1="0" x2="62.5%" y2="100%"/>
+    <line id="gather-mana-to-pebble-line" class="magic-line earth-line" x1="50%" y1="0" x2="87.5%" y2="100%"/>
 </svg>
